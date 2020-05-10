@@ -1,2 +1,2 @@
-# ShortPrograms
-This is where I keep all of the shorter projects I create/work on
+# ShortPythonPrograms
+This is where I keep all of the shorter projects I create/work on in Python

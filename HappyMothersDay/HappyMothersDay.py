@@ -3,7 +3,7 @@ import random
 import colorama
 from colorama import init
 
-init(convert=True)
+init(convert=True) #Allows the colors on Anaconda Terminal to work
 colors = list(vars(colorama.Fore).values())
 
 while True:
